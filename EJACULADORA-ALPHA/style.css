@@ -1,0 +1,127 @@
+button{
+    width: 60px;
+    height: 80px;
+    border: 2px solid green;
+    margin-top: 100px;
+}
+#calculadora{
+    width: 5px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#display{
+    width: 428px;
+    height: 50px;
+    border: 50px;
+}
+#soma{
+    position: absolute;
+    left: 800px;
+    bottom: 220px;
+}
+#divisao{
+    position: absolute;
+    left: 800px;
+    bottom: 400px;
+}
+#multiplicacao{
+    position: absolute;
+    left: 800px;
+    bottom: 310px;
+}
+#subtracao{
+    position: absolute;
+    left: 800px;
+    bottom: 130px;
+}
+#igual{
+    position: absolute;
+    left: 800px;
+    bottom: 40px;
+}
+#num9{
+    position: absolute;
+    left: 720px;
+    bottom: 310px;
+}
+#num8{
+    position: absolute;
+    left: 640px;
+    bottom: 310px;
+}
+#num7{
+    position: absolute;
+    left: 560px;
+    bottom: 310px;
+}
+#num6{
+    position: absolute;
+    left: 720px;
+    bottom: 220px;
+}
+#num5{
+    position: absolute;
+    left: 640px;
+    bottom: 220px;
+}
+#num4{
+    position: absolute;
+    left: 560px;
+    bottom: 220px;
+}
+#num3{
+    position: absolute;
+    left: 720px;
+    bottom: 130px;
+}
+#num2{
+    position: absolute;
+    left: 640px;
+    bottom: 130px;
+}
+#num1{
+    position: absolute;
+    left: 560px;
+    bottom: 130px;
+}
+#num0{
+    position: absolute;
+    left: 640px;
+    bottom: 40px;
+}
+#botao_de_deletar_q_eu_esqueci_o_nome{
+    position: absolute;
+    left: 720px;
+    bottom: 40px;
+}
+#virgula{
+    position: absolute;
+    left: 560px;
+    bottom: 40px;
+     
+}
+#telinha_do_krl{
+    background-color: black;
+    color: white;
+    position: absolute;
+    left: 560px;
+    bottom: 400px;
+    width: 220px;
+    height: 80px;
+    text-align: center;
+
+}
+    #border_da_ejaculadora{
+       position: absolute;
+        width: 350px;
+        height: 500px;
+        left: 535px;
+        bottom: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        border-radius: 50px;
+        border-color: green;
+        border: 10px;
+    }
